@@ -11,9 +11,7 @@ src/scss/styles.css.map
 /coverage
 
 # production
-/build
-/build-*
-/.publish
+
 
 public/css/.sass-cache/
 
